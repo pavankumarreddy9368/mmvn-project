@@ -35,6 +35,11 @@
   <artifactId>google-static-map-creator</artifactId>
   <version>2.3.0</version>
 </dependency>
+<dependency>
+  <groupId>com.weicoder</groupId>
+  <artifactId>tomcat</artifactId>
+  <version>3.3.9-jdk8</version>
+</dependency>
   </dependencies>
 
   <build>
